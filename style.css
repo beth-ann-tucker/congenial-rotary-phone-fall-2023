@@ -1,0 +1,36 @@
+body {
+   background-image:
+url('https://thumbs.dreamstime.com/b/dogs-dog-park-training-4492729.jpg'); 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+/*I upgraded my page by hiding doge in a more difficult location*/
+#hidingDoge {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+/*I upgraded my page by making the text easier to read*/
+h1 {
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+  background-color: tan;
+  width: 30%;
+  line-height: 1.5;
+}
+
+p{
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: bold;
+  color: tan;
+  background-color: white;
+   width: 20%;
+}
